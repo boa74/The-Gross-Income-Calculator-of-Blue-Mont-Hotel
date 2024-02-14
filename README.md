@@ -65,7 +65,7 @@ Enter total suite rooms of the 3th floor.
 2
 **Hotel Income: 3640**
 
-## Author
+## Author Boa Kim
 
 - **Boa Kim** - *Initial work*
 
